@@ -1,0 +1,150 @@
+*{
+    max-width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    color: white;
+    line-height: 30px;
+}
+
+.cabecalho{
+    background-color: black;
+}
+
+.logotipo{
+    display: flex;
+    align-items: center;
+    padding: 50px 0px;
+    justify-content: space-around;
+}
+
+.logotipo img{
+    width: 100px;
+}
+
+.logotipo nav{
+}
+
+.logotipo ul{
+    list-style: none;
+}
+
+.logotipo li{
+    display: inline-block;
+    margin: 0px 20px;
+}
+
+.logotipo a{
+    text-decoration: none;
+    color: white;
+    transition: 0.5s;
+}
+
+.logotipo a:hover{
+    color: rgba(255, 255, 255, 0.623);
+    text-decoration: underline;
+}
+
+.text{
+    text-align: center;
+}
+
+.text h1{
+   font-size: 50px;
+   margin: 20px 0px;
+}
+
+.text p{
+    font-size: 25px;
+    padding: 50px 0px;
+}
+
+.imageperfil{
+    background-color: rgba(0, 0, 0, 0.938);
+    display: flex;
+    padding: 50px 0px;
+}
+
+.imageperfil img{
+}
+
+.textosobre{
+    text-align: center;
+}
+
+.textosobre p{
+    text-align: left;
+    margin: 50px;
+}
+
+.flexservicos{
+    background-color: rgba(0, 0, 0, 0.938);
+    display: flex;
+}
+
+.flexservicos h3{
+    text-align: center;
+    font-size: 30px;
+}
+
+.flexservicos img{
+    
+}
+
+.spa{
+    margin: 50px;
+}
+
+.textservicos{
+    text-align: center;
+    margin: auto;
+}
+
+.textservicos h4{
+    font-size: 20px;
+}
+
+.textservicos p{
+    margin: 50px;
+    text-align: left;
+}
+
+.space{
+    margin: 30px 0px;
+    margin: 50px 0px;
+}
+
+.space img{
+    width: 300px;
+}
+
+.corfooter{
+    background-color: black;
+}
+
+.flexfooter{
+    display: flex;
+    padding: 50px 0px;
+}
+
+.flexfooter img{
+    width: 400px;
+    margin: 20px 0px;
+}
+
+.textfooter{
+    text-align: center;
+    margin: auto;
+}
+
+.textfooter a{
+    color: white;
+    transition: 0.5s;
+}
+
+.textfooter a:hover{
+    color: rgba(255, 255, 255, 0.658);
+}
