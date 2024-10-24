@@ -148,3 +148,12 @@ body{
 .textfooter a:hover{
     color: rgba(255, 255, 255, 0.658);
 }
+
+.linkcadastro a {
+    color: white;
+    transition: 0.5s;
+}
+
+.linkcadastro a:hover{
+    color: rgba(255, 255, 255, 0.637);
+}
