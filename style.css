@@ -157,3 +157,8 @@ body{
 .linkcadastro a:hover{
     color: rgba(255, 255, 255, 0.637);
 }
+
+.meiovideo{
+    text-align: center;
+    background-color: black;
+}
