@@ -8,6 +8,7 @@
 body{
     color: white;
     line-height: 30px;
+    background-color: black;
 }
 
 .cabecalho{
@@ -26,6 +27,7 @@ body{
 }
 
 .logotipo nav{
+    text-align: center;
 }
 
 .logotipo ul{
@@ -34,7 +36,7 @@ body{
 
 .logotipo li{
     display: inline-block;
-    margin: 0px 20px;
+    margin: 20px 10px;
 }
 
 .logotipo a{
@@ -81,7 +83,7 @@ body{
 
 .textosobre p{
     text-align: left;
-    margin: 10px;
+    margin: 30px;
 }
 
 .flexservicos{
@@ -101,6 +103,7 @@ body{
 .spa{
     margin: 50px;
 }
+
 
 .textservicos{
     text-align: center;
